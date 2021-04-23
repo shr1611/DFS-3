@@ -23,7 +23,8 @@ public Response getResponse(int row, int col) {
 Example 1:
 
 Input:
-[['o', 'o', 'o'],
+[
+['o', 'o', 'o'],
 
  ['o', 'o', 'o'],
  
@@ -34,7 +35,8 @@ Output: [2, 0]
 Example 2:
 
 Input:
-[['o', 'o', 'o', 'o', 'o'],
+[
+['o', 'o', 'o', 'o', 'o'],
 
  ['o', 'o', 'o', 'o', 'o'],
  
